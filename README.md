@@ -44,3 +44,7 @@ Use docstring comments and add your name and date to your README and your code f
 Explain your project in the README. Include prerequisites and how to run your code. 
 Document your project works - display screenshots of your console and maybe the RabbitMQ console. 
 If you only have a producer, you won't have a consumer showing messages yet, so you'll need to be creative. We'll build the consumers next.
+
+## Screenshots
+![alt text](SDP5-1.png)
+![alt text](SDP5-2.png)
