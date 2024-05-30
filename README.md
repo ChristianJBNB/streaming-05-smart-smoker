@@ -45,6 +45,13 @@ Explain your project in the README. Include prerequisites and how to run your co
 Document your project works - display screenshots of your console and maybe the RabbitMQ console. 
 If you only have a producer, you won't have a consumer showing messages yet, so you'll need to be creative. We'll build the consumers next.
 
+## How to run code. 
+1. Clone down the repo to your local machine.
+2. Open it in whatever IDE that you prefer
+3. Open a terminal within the repo folder
+4. Activate the local environment using the command '.venv/Scripts/activate'
+5. Once active, run the command 'python .\emitter_of_tasks.py'
+
 ## Screenshots
 ![alt text](SDP5-1.png)
 ![alt text](SDP5-2.png)
