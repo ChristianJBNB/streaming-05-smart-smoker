@@ -80,7 +80,7 @@ def main():
                 send_message("localhost", "03-food-B", message)
             
             # Wait for 30 seconds between reading rows
-            time.sleep(30)
+            time.sleep(5)
 
 
 if __name__ == "__main__":  
